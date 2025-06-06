@@ -12,7 +12,7 @@ You do not need to start with a working game install.  In fact, if you have one,
 
 To install the game and all required mods to join the server, simply install either [Prism Launcher](https://prismlauncher.org/ "Prism Launcher") (recommended) or [CurseForge](https://www.curseforge.com/ "CurseForge") and then import the ZIP.
 
-###What is the server address?
+### What is the server address?
 
 I do not know, go ask your dad.
 
