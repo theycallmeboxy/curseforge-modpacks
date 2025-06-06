@@ -8,7 +8,9 @@ These are some custom CurseForge modpacks used by my Minecraft Java server.  Imp
 
 ### How to Use
 
-You do not need to start with a working game install.  In fact, if you have one, you will lose your settings.  These launchers install the game in instances so that you may have separate installations with compatibility for different modded servers or game versions.  I am guessing there is a way to move in-game settings between installs, but I haven't got that far yet.
+You do not need to start with a working game install.  In fact, if you have one, you will lose your settings.  These launchers install the game in instances so that you may have separate installations with compatibility for different modded servers or game versions.
+
+If you have an existing installation and want to copy your settings, please look for a file called options.txt in the Minecraft root directory to copy over.
 
 To install the game and all required mods to join the server, simply install either [Prism Launcher](https://prismlauncher.org/ "Prism Launcher") (recommended) or [CurseForge](https://www.curseforge.com/ "CurseForge") and then import the ZIP.
 
